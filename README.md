@@ -33,3 +33,7 @@ $ ./<span class="pl-k">&lt;</span>project<span class="pl-k">&gt;</span></pre></d
 
 ## 오프라인 강의
 <p>“OpenCV 4로 배우는 컴퓨터 비전과 머신 러닝” 책은 [패스트캠퍼스]에서 진행 중인 <a href="https://www.fastcampus.co.kr/dev_camp_cvocv/" target="_blank">[OpenCV로 배우는 컴퓨터 비전 프로그래밍]</a> 강의 내용을 기반으로 출간되었습니다. 패스트캠퍼스 강의는 <a href="https://www.fastcampus.co.kr/dev_camp_cvocv/" target="_blank">[링크]</a>를 참고하기 바랍니다.</p>
+
+
+
+https://www.gilbut.co.kr/book/view?bookcode=BN002402&pdscode=pds#bookTab
